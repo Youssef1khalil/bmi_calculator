@@ -13,3 +13,23 @@ const kNumbStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+const kNavigatorButton = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 30,
+);
+const kTittleStyle = TextStyle(
+  fontSize: 50,
+  fontWeight: FontWeight.bold,
+);
+const kResultTextStyle = TextStyle(
+  color: Color(0xff24d876),
+  fontSize: 22,
+  fontWeight: FontWeight.bold,
+);
+const kBmiTextStyle = TextStyle(
+  fontSize: 100,
+  fontWeight: FontWeight.bold,
+);
+const kBodyTextStyle = TextStyle(
+  fontSize: 22,
+);
